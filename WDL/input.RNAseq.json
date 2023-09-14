@@ -1,0 +1,18 @@
+{
+    "RNAseq.matedata_tsv" : "1.pre_info/sample_input_path.tsv",
+    "RNAseq.rrna_index" : "/data3/Group7/wangjiaxuan/refer/rRNA_Data/bowtie2_index/rRNA",
+    "RNAseq.genome_index":"/data3/Group7/wangjiaxuan/workflow/bulk-rna-seq/test/chrX_data/indexes/chrX_tran",  
+    "RNAseq.annot_gtf" : "/data3/Group7/wangjiaxuan/workflow/bulk-rna-seq/test/chrX_data/genes/chrX.gtf",
+    "RNAseq.read_length" : "150",
+    "RNAseq.regtf" : "false",
+    "RNAseq.python" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/bin/python",
+    "RNAseq.collect_columns" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/collect-columns",
+    "RNAseq.samtools" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/samtools",
+    "RNAseq.stringtie" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/stringtie",
+    "RNAseq.gffcompare" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/gffcompare",
+    "RNAseq.preDE" : "util/preDE.py",
+    "RNAseq.bowtie2" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/bowtie2",
+    "RNAseq.fastp" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/bin/fastp",
+    "RNAseq.mapping_software" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/hisat2",
+    "RNAseq.pigz" : "/data3/Group7/wangjiaxuan/biosoft/miniconda3/envs/rnaseq/bin/pigz"
+}
